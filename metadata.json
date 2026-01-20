@@ -1,0 +1,5 @@
+{
+  "name": "SmartTodo AI",
+  "description": "A sophisticated task management application integrated with Supabase for persistence and Gemini AI for intelligent task decomposition and productivity insights.",
+  "requestFramePermissions": []
+}
